@@ -1,2 +1,2 @@
-def multi(5,3):
+def multi(a,b):
     return a*b
